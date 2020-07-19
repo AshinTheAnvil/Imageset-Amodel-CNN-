@@ -1,5 +1,9 @@
-# Imageset-Amodel-CNN-
-This folder contains the test and train data neede d to implement the CNN model
-please clone the file or download it.
-Regards,
-Ashin.A
+# CNN Image Classification
+
+Jupyter notebook performing image classification with CNN.
+
+## Dataset
+
+Image files used are from  https://github.com/Abhishek-Arora/Image-Classification-Using-SVM
+
+
